@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    image: Patyk0007/friendlyhell
+    image: httpd
      deploy:
       replicas: 5
       resources:
